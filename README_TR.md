@@ -26,7 +26,7 @@ Konsolda adım adım logları görürsün (örn. `---ROUTE QUESTION---`, `---RET
 
 ## Repo yapısı
 
-> Repo listende görünen mevcut yapıya göre.
+> Repo listesinde görünen mevcut yapıya göre.
 
 - `main.py`  
   Demo giriş noktası (env yükler + `app.invoke({"question": ...})` çağırır).
