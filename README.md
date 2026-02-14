@@ -81,6 +81,9 @@ Create a `.env` file in the repo root (do **not** commit it):
 ```bash
 OPENAI_API_KEY=your_openai_key
 TAVILY_API_KEY=your_tavily_key
+LANGCHAIN_TRACING_V2=true
+LANGCHAIN_PROJECT=CorrectiveRAGProject
+LANGCHAIN_API_KEY=your_lanchain_key
 # Optional but recommended:
 USER_AGENT=corrective-ragproject/1.0
 ```
