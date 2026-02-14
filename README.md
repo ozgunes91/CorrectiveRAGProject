@@ -26,7 +26,7 @@ You can see the execution trace in console logs (e.g. `---ROUTE QUESTION---`, `-
 
 ## Repo structure
 
-> Based on the current project layout shown in your repo listing.
+> Based on the current project layout shown in this repo listing.
 
 - `main.py`  
   Demo entrypoint (loads env + calls `app.invoke({"question": ...})`).
